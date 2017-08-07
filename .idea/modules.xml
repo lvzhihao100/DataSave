@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/DataSave.iml" filepath="$PROJECT_DIR$/DataSave.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib-annotation/lib-annotation.iml" filepath="$PROJECT_DIR$/lib-annotation/lib-annotation.iml" />
       <module fileurl="file://$PROJECT_DIR$/lib-api/lib-api.iml" filepath="$PROJECT_DIR$/lib-api/lib-api.iml" />
       <module fileurl="file://$PROJECT_DIR$/lib-compiler/lib-compiler.iml" filepath="$PROJECT_DIR$/lib-compiler/lib-compiler.iml" />
     </modules>

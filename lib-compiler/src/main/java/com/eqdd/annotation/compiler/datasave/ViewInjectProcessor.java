@@ -34,7 +34,7 @@ import javax.lang.model.util.Elements;
  * @version [CompilerAnnotation, 17/6/20 09:55]
  */
 @AutoService(Processor.class)
-@SupportedAnnotationTypes({"com.eqdd.annotation.api.ToSave"})
+@SupportedAnnotationTypes({"com.eqdd.annotation.datasave.ToSave"})
 @SupportedSourceVersion(SourceVersion.RELEASE_7)
 public class ViewInjectProcessor extends AbstractProcessor {
     // 存放同一个Class下的所有注解

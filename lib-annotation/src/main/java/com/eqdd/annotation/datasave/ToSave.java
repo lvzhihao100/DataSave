@@ -1,4 +1,4 @@
-package com.eqdd.annotation.api;
+package com.eqdd.annotation.datasave;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;
